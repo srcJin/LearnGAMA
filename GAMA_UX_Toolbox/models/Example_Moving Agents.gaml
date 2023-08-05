@@ -131,7 +131,6 @@ experiment "Click and Move" type: gui
 				} else {
 					draw zone at: #user_location wireframe: false border: false color: #wheat;
 				}
-
 			}
 
 			species being;
